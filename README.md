@@ -1,4 +1,4 @@
-# springboot_crud_security_aop
+# springboot_cqrs_command_security
 
 ***
 
@@ -8,10 +8,9 @@
 - SpringBoot : 3.2.1
   - aop 추가
 - TestCase 추가
+- CQRS에서 Command 부부만 가져옴 
 
 local : SpringBoot + JWT + H2  
-
-<br/>
 
 prd : SpringBoot + JWT + MariaDB
 
